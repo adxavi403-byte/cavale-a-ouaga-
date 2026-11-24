@@ -1,0 +1,6 @@
+{
+  "name": "Cavale à Ouaga",
+  "description": "Jeu de course arcade dans les rues de Ouagadougou : incarnez un voleur agile poursuivi par la police, sautez par-dessus les taxis-verts et esquivez les barrages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
